@@ -1,0 +1,8 @@
+-- INSERT--
+insert into RECEPTIONIST values('ERESHA',1,'M','SPECILIST','2000-06-01',21,now(),'7337720391','RAICHUR');
+insert into RECEPTIONIST values('ANJALI',2,'F','OFFICER','2001-08-17',20,now(),'7676804968','BANGALORE');
+-- UPDATE--
+update receptionist set  R_NAME = 'ERESHA' WHERE R_ID  = 1;
+
+-- DELETE--
+DELETE FROM  RECEPTIONIST;
