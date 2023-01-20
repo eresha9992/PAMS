@@ -5,6 +5,7 @@
 - JDBC
 - Mysql
 - Meaven
+- Logger
 - Junit
 - Gitscm
 
